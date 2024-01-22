@@ -1,0 +1,4 @@
+region,mse,rmse
+Southeast,0.000048,0.006937
+MiamiFtLauderdale,0.002128,0.046134
+Boston,0.024558,0.156709
