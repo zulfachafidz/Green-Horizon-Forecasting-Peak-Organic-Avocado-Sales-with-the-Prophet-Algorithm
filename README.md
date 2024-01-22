@@ -31,7 +31,7 @@ Menggunakan CRISP-DM (Cross-Industry Standard Process for Data Mining) sebagai m
 1. **dashboard - Data Visualization**: Folder yang berisi visualisasi data menggunakan Looker Studio. Anda dapat melihat dashboard [di sini](https://lookerstudio.google.com/u/0/reporting/ae1bd4d8-a3f0-4c1a-a7d3-faadc4348517/page/u4JhD).
 2. **dataset**: Folder yang berisi dataset yang digunakan dalam analisis. 
 3. **deck - ppt**: Folder yang berisi presentasi PowerPoint.
-4. script analysis
+4. **script**: Folder yang berisi script untuk menganalisis dataset
 
 ## Visualisasi Data
 
