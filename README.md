@@ -1,13 +1,13 @@
 # Green Horizon: Forecasting Peak Organic Avocado Sales with the Prophet Algorithm
 
 
-## Deskripsi
+## Deskription
 
-Proyek Green Horizon memanfaatkan algoritma Prophet untuk memprediksi puncak penjualan alpukat organik, mendukung kampanye "APEAM GO ORGANIC." Menggunakan Python dan Looker Studio, analisis ini bertujuan memberikan wawasan mendalam terhadap tren dan potensi penjualan, menjadi dasar strategi pemasaran yang lebih cerdas.
+The Green Horizon Project leverages the Prophet algorithm to predict peak sales of organic avocados, supporting the campaign "APEAM GO ORGANIC." Using Python and Looker Studio, this analysis aims to provide deep insight into sales trends and potential, forming the basis of smarter marketing strategies.
 
-## Tujuan Analisis
+## Purpose of Analysis
 
-Mengembangkan model machine learning untuk melihat tren dan melakukan forecasting data penjualan alpukat di suatu wilayah menggunakan Prophet. Analisis ini bertujuan untuk mendapatkan potensi penjualan alpukat organik yang nantinya akan menjadi pilot project campaign "APEAM GO ORGANIC."
+Developing a machine learning model to see trends and forecast avocado sales data in a region using Prophet. This analysis aims to obtain potential sales of organic avocados, which will later become the pilot project "APEAM GO ORGANIC."
 
 ## Tools
 
@@ -24,17 +24,17 @@ Mengembangkan model machine learning untuk melihat tren dan melakukan forecastin
 
 ## Metode Analisis
 
-Menggunakan CRISP-DM (Cross-Industry Standard Process for Data Mining) sebagai metodologi analisis data.
+Using CRISP-DM (Cross-Industry Standard Process for Data Mining) as a data analysis methodology.
 
-## Struktur Folder
+## Structure Folders
 
-1. **dashboard - Data Visualization**: Folder yang berisi visualisasi data menggunakan Looker Studio. Anda dapat melihat dashboard [di sini](https://lookerstudio.google.com/u/0/reporting/ae1bd4d8-a3f0-4c1a-a7d3-faadc4348517/page/u4JhD).
-2. **dataset**: Folder yang berisi dataset yang digunakan dalam analisis. 
-3. **deck - ppt**: Folder yang berisi presentasi PowerPoint.
-4. **script**: Folder yang berisi script untuk menganalisis dataset
+1. **dashboard - Data Visualization**: Folder containing data visualization using Looker Studio. You can see the dashboard [here](https://lookerstudio.google.com/u/0/reporting/ae1bd4d8-a3f0-4c1a-a7d3-faadc4348517/page/u4JhD).
+2. **dataset**: Folder containing the dataset used in the analysis.
+3. **deck - ppt**: The folder containing the PowerPoint presentation.
+4. **script**: Folder containing scripts for analyzing datasets
 
-## Visualisasi Data
+## Data Visualization
 
-Anda dapat melihat visualisasi data dan hasil analisis pada dashboard Looker Studio [di sini](https://lookerstudio.google.com/u/0/reporting/ae1bd4d8-a3f0-4c1a-a7d3-faadc4348517/page/u4JhD).
+You can see the data visualization and analysis results on the Looker Studio dashboard [here](https://lookerstudio.google.com/u/0/reporting/ae1bd4d8-a3f0-4c1a-a7d3-faadc4348517/page/u4JhD).
 
 
